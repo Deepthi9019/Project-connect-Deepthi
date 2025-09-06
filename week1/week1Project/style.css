@@ -1,0 +1,92 @@
+/* h1 {color: green;}
+p {color: royalblue;}
+button {color: rgb(237, 6, 6);background-color: chartreuse;
+}
+body {background-color:#E2FCEF;} */
+/* *{   uunivesal selector   color: pink;}
+
+h1{ element selector     color: greenyellow;} */
+/* #heading1{color: bisque;}
+    
+#heading2{color: darkcyan;} */
+/* .gf{ class selector
+    color: darkgreen;
+} multiple color change */
+
+/* div { background-color: blue;color: white;} */
+/* .heading{color: red;} */
+
+/* h1,h2,h3{color: red;} */
+
+/* button {background-color: green;} */
+/* p{ text-align: center;} */
+/* h1{
+    text-align: center;
+    text-decoration:red dotted underline;
+} */
+ /* #a{font-weight: normal;}
+ #b{font-weight: 100;}
+ #c{font-weight: 900 ;}
+ #d{font-weight: lighter;} */
+ /* #one{font-family: arial;}
+ #two{font-family: 'Segoe UI';} */
+
+ /* #a{font: size 16px; line-height: normal; text-transform: none;} */
+ /* #b{font-size: 10px;} */
+ /* *{font-family: 'Times New Roman', Times, serif;} */
+ /* h1{text-align: center; text-transform: capitalize;} */
+ /* #outer{font-size: 25px;}
+ #inner{font-size: 10px;} */
+
+/* div{height: 100px; background-color:blueviolet; width: 100px; border: 6px; border-style: dotted;  
+    text-align: right;
+    border: 3px solid red;
+}
+h1{width: 500px; 
+    background-color: blue; 
+     border: 4px; 
+    border-style: solid; border-color:greenyellow;    border: 5px dotted red;
+    text-align: center;
+}*/
+
+/* div{
+    height: 100px;width: 100px;background-color: burlywood;border: 2px solid blue; text-align: left;
+    border-radius: 0%; padding: 1px 2px 3px 4px;margin-top:50px;  
+}*/
+
+/* div{
+    height: 100px; width: 100px;background-color: greenyellow; border-radius: 50% used to make curved  edge;
+} */
+
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+
+
+}
+button{
+    background-color: #f0880f;
+}
+#logo{
+    color: #f0880f;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+} */
+
+
+
+
+
+
+
+
+
+
